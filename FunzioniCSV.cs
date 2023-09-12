@@ -10,7 +10,7 @@ using System.Windows.Forms;
 using System.IO;
 using System.Security.Policy;
 
-public class Class1
+public class FunzioniCSV
 {
     public void VisualizzaCSV()
     {

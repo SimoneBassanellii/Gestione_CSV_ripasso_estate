@@ -13,11 +13,15 @@ using System.Security.Policy;
 namespace Gestione_CSV
 {
     public partial class Form1 : Form
-    {       
+    {
+        //richima la classe FunzioniCSV 
+        FunzioniCSV f;
+        
         public Form1()
-        {            
-            VisualizzaCSV();
-            InitializeComponent();           
+        {
+0           VisualizzaCSV();
+            InitializeComponent();
+            f = new FunzioniCSV();
         }
 
         public string FileName = @"../../bassanelli.csv";

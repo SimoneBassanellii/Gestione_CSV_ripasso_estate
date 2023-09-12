@@ -7,6 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gestione_CSV", "Gestione_CS
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Elementi di soluzione", "Elementi di soluzione", "{D9135385-85BD-4CA0-B1C7-E7DD27F63869}"
 	ProjectSection(SolutionItems) = preProject
+		..\..\ClassLibrary1\ClassLibrary1.sln = ..\..\ClassLibrary1\ClassLibrary1.sln
 		FunzioniCSV.cs = FunzioniCSV.cs
 	EndProjectSection
 EndProject
