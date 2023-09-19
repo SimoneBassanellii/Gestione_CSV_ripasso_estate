@@ -14,7 +14,6 @@ namespace Gestione_CSV
 {
     public partial class Form1 : Form
     {
-        //richima la classe FunzioniCSV 
         FunzioniCSV f;
         
         public Form1()
